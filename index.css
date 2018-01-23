@@ -27,7 +27,9 @@ p {
 
 
 .card-columns {
-    margin: 2%;
+    margin: 5% auto;
+    width: 80%;
+
  }
 
  .card-body a {
